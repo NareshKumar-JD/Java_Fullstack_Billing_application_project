@@ -6,8 +6,11 @@ Developed a Java Full Stack Billing Application project using Java Spring Boot, 
 <img width="587" height="137" alt="image" src="https://github.com/user-attachments/assets/42dc14e3-b2ba-4ba8-85e5-299ddc5cbe26" />
 
 About Page:
+
 <img width="572" height="350" alt="image" src="https://github.com/user-attachments/assets/44c53199-9fcb-4f20-9feb-5ec6dc7f06f1" />
+
 Conduct us Page:
+
 <img width="600" height="271" alt="image" src="https://github.com/user-attachments/assets/db1bd566-11a5-4bfa-a4ed-3eeb10fd72b2" />
 After submitting a mail will go to the customer,
 <img width="600" height="269" alt="image" src="https://github.com/user-attachments/assets/aa2c964a-251e-4010-8333-dcde4e32a51d" />
